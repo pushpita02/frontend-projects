@@ -46,7 +46,7 @@ To get started with the project, follow these steps:
     npm install
     ```
 ## Look
-
+![An instance when a JS was run to url an image from free source](https://github.com/pushpita02/frontend-projects/blob/main/Screenshot%202024-11-16%20025204.png)
 
 ## Usage
 Once the dependencies are installed, you can start the project by running the following command:
